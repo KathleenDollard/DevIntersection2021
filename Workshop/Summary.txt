@@ -1,0 +1,49 @@
+Wrap-up
+
+* Shortcut for alt+shift+down arrow – column selection
+* Switch patterns x2
+* Async exception handling
+* And / or in switch patterns x2
+* Reducing complexity (more switch patterns)
+* Diff between async on web and desktop
+* Safe space in meetings
+* Readability of switch patterns (especially with tuples)
+* Arithmetic overflow not checked by default, but you can turn it on!
+* Regular expressions in replace
+* Don’t do date math! X2
+* Learning about aggregate exceptions for async
+* Even people at Microsoft make mistakes =)
+* Async in web apps to increase throughput
+* Methods like wait and from result that you should be careful with
+* Psychology of how we learn
+* Dividing by zero with doubles
+* Dividing with different types
+* Decimals for base ten math
+* Consider what type you want to use
+* M suffix for the decimal
+* Overloads for int16/int32
+* Hierarchies and overloads
+* Avoid async void
+* Double panes are legit
+* New window in window menu VS
+* Undocked? Ctrl + double click!
+* Interpolated string holes may not be evaluated, use pure methods
+* Politics of teams at Microsoft
+* Infinity
+* WhenAll
+* Local methods
+* Overloads with generics win
+* 2022 Intellicode tab completion
+* Minus zero is a thing
+* Learning includes breaking old associations
+* Overloads should do the same thing as much as possible
+* Decimal is slower than double
+* No such thing as a silly idea. It is ok to be wrong.
+* C# design meeting notes are open
+* Pattern matching for collections
+* Anonymous notes
+* Even MS has a dark age
+* Each team member speaking the same amount, even when someone is a blabbermouth
+* Thinking about how code works
+* Only use async void on event handlers
+* Count is slower than length
